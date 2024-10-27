@@ -1,0 +1,2 @@
+- for loops in python have their variables in global scope if they are used in global scope but if used with a local scope ,
+- say inside a udf then the scope will be that of udf only
